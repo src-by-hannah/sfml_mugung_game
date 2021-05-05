@@ -2,6 +2,11 @@
 
 ## Install
 * sfml-2.5.1 <<https://github.com/SFML/SFML>>
+>> Additional Library...
+>> sfml-graphics.lib
+>> sfml-system.lib
+>> sfml-window.lib
+>> sfml-audio.lib
 <br>
 
 ## Info
