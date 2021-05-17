@@ -11,5 +11,7 @@ Information on game planning can be obtained from my blog.
 
 <br><br>
 
+---
+
 Enjoy my work! Thank you.
 <br>@src-by-hannah
